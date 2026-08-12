@@ -8,8 +8,8 @@ Disclaimer
 
 This software is provided without warranty, according to the MIT License, and should therefore not be used where it may endanger life, financial stakes, or cause discomfort and inconvenience to others.
 
-Raspberry Pi Pico Pinout
-------------------------
+Raspberry Pi Pico / RP2040-Zero Pinout
+--------------------------------------
 
 | Raspberry Pi Pico GPIO | RP2040-Zero    | Function |
 |:----------------------:|:--------------:|:--------:|
@@ -17,6 +17,13 @@ Raspberry Pi Pico Pinout
 | GP13 (Pin 17)          | GP13 (13)      | UART0 RX |
 | GP4  (Pin 6)           | GP4  (4)       | UART1 TX |
 | GP5  (Pin 7)           | GP5  (5)       | UART1 RX |
+
+<img width="599" height="538" alt="Raspberry Pi Pico UART Pinout" src="https://github.com/user-attachments/assets/6196304a-8b8f-4552-98cc-114dfab2ed11" />
+Credit: pinout.xyz
+
+<img width="865" height="717" alt="RP2040-Zero-Pinout" src="https://github.com/user-attachments/assets/4b4f67f0-4c3e-4a1d-ae11-c0785241719f" />
+Credit: Waveshare
+
 
 Build for Raspberry Pi Pico / Pico 2
 ------------------------------------
